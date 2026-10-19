@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:33:03.437Z",
+  "generated_at": "2026-10-19T09:34:40.408Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -166,9 +166,9 @@
       "url": "https://www.deep-ml.com/problems/12",
       "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
       "first_solved_at": "2026-10-19T09:33:02.813Z",
-      "last_pushed_at": "2026-10-19T09:33:02.813Z",
+      "last_pushed_at": "2026-10-19T09:34:39.778Z",
       "language": "python",
-      "lines": 17
+      "lines": 60
     }
   }
 }
